@@ -104,6 +104,8 @@ align-content: center;
 .recipe {
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
   width: 100%;
+  max-width: 45vw;
+  padding-bottom: 10px;
 }
 
 .time {
@@ -156,6 +158,8 @@ footer {
 
 a {
   color: #fb8500;
+  margin: 7px;
 }
+
 
 
