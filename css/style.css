@@ -153,6 +153,7 @@ align-content: center;
 }
 
 footer div {
+  margin-top: 44px;
   height: 100%;
   font-family: Work Sans, sans-serif;;
   font-size: 14px;
