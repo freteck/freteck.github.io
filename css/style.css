@@ -93,9 +93,10 @@ h2 {
   padding: 10px 0px 10px 10px;
 }
 
-img {
+img, iframe {
   width: 100%;
-  height: auto;
+  height: 50vh;
+  object-fit: cover;
 }
 
 /* Added wrapper class, set some spacing. Remember, margin sets space outside of the box, while padding sets the space inside the box */
